@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi.csproj", "{ED39DB6B-B568-430B-A74F-3D0A498FEB4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDriveDuplicateFinder", "..\GDriveDuplicateFinder\GDriveDuplicateFinder.csproj", "{EE0854BA-83D2-4BFB-A8D0-1A4DA5A3EDB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED39DB6B-B568-430B-A74F-3D0A498FEB4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED39DB6B-B568-430B-A74F-3D0A498FEB4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED39DB6B-B568-430B-A74F-3D0A498FEB4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED39DB6B-B568-430B-A74F-3D0A498FEB4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE0854BA-83D2-4BFB-A8D0-1A4DA5A3EDB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE0854BA-83D2-4BFB-A8D0-1A4DA5A3EDB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE0854BA-83D2-4BFB-A8D0-1A4DA5A3EDB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE0854BA-83D2-4BFB-A8D0-1A4DA5A3EDB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3367CD43-CD45-4C23-9A0A-E4C377DF0F4F}
+	EndGlobalSection
+EndGlobal
